@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: `[WakOleva Maia]` 
+- Certification: `[WakOleva Felicidade Maia]`
 
 ## Instructions
 Please replace the placeholders with your details:
